@@ -1,0 +1,60 @@
+html{
+	height: 100%;
+}
+body{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url(images/football-world-cup-background-banner-soccer-championship-2022-qatar_29865-3051.webp);
+}
+.container{
+	margin-left: 1px;
+	margin-right: 1040px;
+	width: 1024px;
+}
+header{
+	background-color: rgba(176, 176, 199, 0);
+	height: 118px;
+	text-align: center;
+}
+nav{
+	background-color:rgba(189, 178, 199, 0.244);
+	text-align: center;
+	padding-top: 14px;
+	padding-bottom: 14px;
+}
+main{
+	height: 400px;
+	text-align: center;
+	padding-top: 40px;
+	padding-right: 240px;
+}
+.teams{
+	font-size: 84px;
+	color: rgb(255, 255, 255);
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgba(255,255,255);
+    background-color: rgba(0,0,0,.5)
+}
+.explanation{
+	font-size: 18px;
+	color: rgb(255, 255, 255);
+	font-family: Arial, Helvetica, sans-serif;
+	color: rgba(255,255,255);
+    background-color: rgba(0,0,0,.5)
+}
+.logo{
+	width: 100px;
+	height: 100px;
+	padding-left: 1040px;
+}
+a{
+	color: rgba(0, 0, 0, 0.571);
+	font-family: Arial, Helvetica, sans-serif;
+}
+nav a{
+	text-decoration: none;
+	font-size: 12px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
